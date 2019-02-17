@@ -1,0 +1,9 @@
+.pinfo{
+      webkit-box-orient:vertical;
+	  display: flex;
+	  flex-direction: row;
+	  padding-left:25%
+}
+.pimage{
+	padding-right:20px;
+}
